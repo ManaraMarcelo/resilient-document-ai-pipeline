@@ -6,7 +6,7 @@
 
 > Durable Python workers for document analysis with transactional claims, structured LLM output, deterministic validation, and auditable recovery.
 
-![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-required-336791)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-required-336791) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Executive Summary
 
@@ -277,6 +277,7 @@ No public cost or throughput figures are disclosed.
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
