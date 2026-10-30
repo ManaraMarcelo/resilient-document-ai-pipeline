@@ -325,7 +325,7 @@ The code in `src/` consists of reconstructed, generalized, synthetic examples in
 
 ## Author
 
-**Marcelo Manara** — Software Engineer | AI Systems · Cloud · Python · AWS
+**Marcelo Manara** AI/ML Engineer | AWS • ML • LLM • GenAI • RAG • Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelo--manara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-manara/)
 [![GitHub](https://img.shields.io/badge/GitHub-ManaraMarcelo-181717?style=flat&logo=github&logoColor=white)](https://github.com/ManaraMarcelo)
